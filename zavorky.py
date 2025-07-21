@@ -1,0 +1,1 @@
+zavorky = input("Zadej zavorky - ")
